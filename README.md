@@ -2,13 +2,6 @@
 
 This is a simple reminder application created using TypeScript and React. It utilizes the Axios library to fetch data.
 
-## Prerequisites
-
-Before running the application, please make sure that you have the following dependencies installed on your system:
-
-- Node.js
-- NPM
-
 ## Getting Started
 
 To get started, simply follow the steps below:
@@ -48,6 +41,3 @@ We plan to add more features to this application in the future, including the ab
 
 If you'd like to contribute to this project, please feel free to submit a pull request. We welcome any contributions or feedback that will help improve this application.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
